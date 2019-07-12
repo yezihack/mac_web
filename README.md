@@ -1,6 +1,6 @@
-# 简单的构建mac桌面软件
+# 构建简单的mac桌面软件
 
-## sh
+## install
 
 ```
 make darwin_dmg
